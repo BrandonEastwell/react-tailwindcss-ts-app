@@ -1,7 +1,8 @@
-# React + Vite + Vitest + React Testing Library
+# React + Typescript + TailwindCSS + Vite + Vitest + React Testing Library Template
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-Used https://www.robinwieruch.de/vitest-react-testing-library to setup testing libraries
+Used https://www.robinwieruch.de/vitest-react-testing-library to setup testing libraries. <br>
+Includes tailwindcss and typescript setup.
 
 Currently, two official plugins are available:
 
